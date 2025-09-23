@@ -78,11 +78,11 @@
     <aside>
       <div class="center">
         <h3>Милка</h3>
-        <img src="img/img1.jpg" alt="Фото кота" title="Мой кот" width="70" height="400">
+        <img src="img1.jpg" alt="Фото кота" title="Мой кот" width="70" height="400">
         <h4>Наоми</h4>
-        <img src="img/img3.jpg" alt="Фото кота" title="Мой кот" width="70" height="400">
+        <img src="img3.jpg" alt="Фото кота" title="Мой кот" width="70" height="400">
         <h5>Рыжик</h5>
-        <img src="img/img4.jpg" alt="Фото кота" title="Мой кот" width="300" height="400">
+        <img src="img4.jpg" alt="Фото кота" title="Мой кот" width="300" height="400">
   
         <footer class="card">
     <p class="small"> 2025 — Демонстрация задания по HTML</p>
