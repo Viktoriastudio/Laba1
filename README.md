@@ -79,6 +79,7 @@
       <div class="center">
         <h3>Милка</h3>
         <img src="img/img1.jpg" alt="Фото кота" title="Мой кот" width="70" height="400">
+        <a href="https://drive.google.com/file/d/1gtNHteg0EmGIlreNDBb9TTMhq1YfvYth/view?usp=drive_link" target="_self" title="photocat">
         <h4>Наоми</h4>
         <img src="img/img3.jpg" alt="Фото кота" title="Мой кот" width="70" height="400">
         <h5>Рыжик</h5>
