@@ -165,11 +165,11 @@
 
     <aside>
       <h3>Милка</h3>
-      <img src="img/img1.jpg" alt="Кот Милка" height="400" weight="250">
+      <img src="img1.jpg" alt="Кот Милка" height="400" weight="250">
       <h3>Наоми</h3>
-      <img src="img/img3.jpg" alt="Кот Наоми" height="400" weight="250">
+      <img src="img3.jpg" alt="Кот Наоми" height="400" weight="250">
       <h3>Рыжик</h3>
-      <img src="img/img4.jpg" alt="Кот Рыжик" height="400" weight="250">
+      <img src="img4.jpg" alt="Кот Рыжик" height="400" weight="250">
     </aside>
   </main>
 
